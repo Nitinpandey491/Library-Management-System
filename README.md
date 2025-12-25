@@ -7,12 +7,10 @@
 ## 🚀 Key Features
 
 ### 🔐 Authentication & Roles
-* **Admin Login:** Full access to manage librarians.
-* **Librarian Login:** Access to issue/return books and manage inventory.
+* **Admin/Librarian Login:** Access to issue/return books and manage inventory.
 * **Student Login:** Secure access for students to view the library catalog.
 
-### 👨‍💼 Admin & Librarian Modules
-* **Manage Staff:** Admin can add or delete librarian accounts.
+### 👨‍💼 Admin/Librarian Modules
 * **Book Inventory:** Add new books and update quantities.
 * **Issue & Return:** Librarians manage the issuing and returning of books to students.
 * **Track Records:** View logs of issued books and current inventory status.
@@ -143,6 +141,5 @@ LibraryManagement_Java_GUI/
 ## 👤 Author
 
 **Nitin Vinay Pandey**
-
 
 ```
