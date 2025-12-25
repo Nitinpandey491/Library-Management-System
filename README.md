@@ -109,6 +109,8 @@ LibraryManagement_Java_GUI/
 
 ---> [Table: issue](Application_UI/Database_picture_4.png)
 
+---> [Table: userdetails](Application_UI/Database_picture_5.png)
+
 6️⃣ 🎥 Project Execution Video
 
 ---> [Watch Execution Video](Application_UI/Nitin_Pandey_Project.mp4)
@@ -120,7 +122,7 @@ LibraryManagement_Java_GUI/
 
 1. **Database Setup:**
 * Create a database named `library_db`.
-* Run the provided SQL script to create `books`, `librarians`, and `issuebooks` tables.
+* Run the provided SQL script to create `books`, `admin`, `issue` and `userdetails` tables.
 * Update `DB.java` with your database credentials.
 
 
