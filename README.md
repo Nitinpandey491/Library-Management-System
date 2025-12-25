@@ -142,4 +142,6 @@ LibraryManagement_Java_GUI/
 
 **Nitin Vinay Pandey**
 
-```
+* Developer & Designer
+
+---
